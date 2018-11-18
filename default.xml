@@ -43,7 +43,7 @@
   <project path="kernel/bullhead" name="android_kernel_bullhead" groups="device,bullhead" remote="maruos" clone-depth="1" />
   <project path="device/lge/bullhead" name="android_device_lge_bullhead" groups="device,bullhead,pdk" remote="maruos" />
 
-  <project path="kernel/nash" name="android_kernel_motorola_msm8998" groups="device,nash" remote="resonious" clone-depth="1" />
+  <project path="kernel/motorola/msm8998" name="android_kernel_motorola_msm8998" groups="device,nash" remote="resonious" clone-depth="1" />
   <project path="device/motorola/nash" name="android_device_motorola_nash" groups="device,nash" remote="resonious" />
 
 </manifest>
